@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter8_ControlFlow/ShiftedTriangle",
-      "program": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter8_ControlFlow/ShiftedTriangle/build/Debug/outDebug",
+      "cwd": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter14 Introduction Classes/Point3D",
+      "program": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter14 Introduction Classes/Point3D/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

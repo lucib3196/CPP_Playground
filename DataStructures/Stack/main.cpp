@@ -7,7 +7,7 @@ class Stack
 {
 private:
     int top;
-    int arr[5];
+    int arr[4];
 
 public:
     Stack()

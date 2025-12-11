@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter16 Arrays and Vectors/IntroVector",
-      "program": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter16 Arrays and Vectors/IntroVector/build/Debug/outDebug",
+      "cwd": "c:/Github/CPP_Playground/TypesCPP/Classes",
+      "program": "c:/Github/CPP_Playground/TypesCPP/Classes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -282,7 +282,7 @@ int main()
             cout << "Delete Node by Key Operation \n Enter the key of the node to be delete";
             cin >> k1;
             s.deleteNodeByKey(k1);
-            break
+            break;
 
         case 5:
             cout << "Update Node Operation \n Enter the key and data for the node update";
